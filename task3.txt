@@ -1,8 +1,0 @@
-I read
-I write
-11 22 33 44 55 66 
-I like deevops ingeneer
-
-
-
-I am create new branch pavel_task3

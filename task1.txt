@@ -1,5 +1,0 @@
-I am create new branch pavel_task1
-TEST
-TEST1
-Test2
-I 
